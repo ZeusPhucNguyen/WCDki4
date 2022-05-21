@@ -1,4 +1,4 @@
 package com.example.figureshop.model;
 
-public class MySqlProduct {
+public class MySqlProductModel {
 }
